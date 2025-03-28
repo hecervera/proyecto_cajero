@@ -69,3 +69,5 @@ while True:
         print('Error: no seleccionó una opción válida')
         
 lista_random = [1, 2, 3, 4]
+
+print ('Rama alternativa')
