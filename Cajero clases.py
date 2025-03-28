@@ -67,3 +67,5 @@ while True:
         break
     else:
         print('Error: no seleccionó una opción válida')
+        
+lista_random = [1, 2, 3, 4]
